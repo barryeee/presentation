@@ -1,11 +1,24 @@
 # The IS The Presentation
 
-  Line 1
-  line 2
-  Line 3
-  
+1  Line 1. 
+2  line 2. 
+3  Line 3  
+   
 ---
-# slide #2
+## slide #2
 
--some stuff
+**some stuff**
+
++++
+### Page 2.5
+
+- list item
+- 2nd list item
+
+---
+
+### The very Last Page
+
+Nothng more  
+To say!!
 
