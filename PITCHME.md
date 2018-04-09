@@ -3,7 +3,7 @@
 1  Line 1  
 2  line 2  
 3  Line 3  
-  *Sub-line 3.5
+  * Sub-line 3.5
    
 ---
 ## slide #2
