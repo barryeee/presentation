@@ -19,7 +19,7 @@
 
 +++
 
-![illustration 1] (presentation bg.png)
+![illustration 1](https://github.com/barryeee/presentation/presentatiobg.png)
 ---
 
 ### The very Last Page
