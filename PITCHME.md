@@ -19,7 +19,7 @@
 
 +++
 
-![illustration 1](https://github.com/barpresentatiobg.png)
+![illustration 1](assets/presentationbg.png)
 ---
 
 ### The very Last Page
